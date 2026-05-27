@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Limiter",
+  "description": "Limits the number of open tabs and helps keep browsing focused.",
+  "version": "1.0.0",
+  "incognito": "split",
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Tab Limiter",
+    "default_popup": "popup.html"
+  },
+  "options_page": "options.html",
+  "update_url": "https://your-domain.example.com/tab-limiter/update.xml"
+}

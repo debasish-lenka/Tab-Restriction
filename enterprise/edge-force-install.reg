@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+; Replace EXTENSION_ID with your published extension ID.
+; Replace UPDATE_URL if needed.
+; Edge Add-ons update URL:
+; https://edge.microsoft.com/extensionwebstorebase/v1/crx
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\ExtensionInstallForcelist]
+"1"="EXTENSION_ID;https://edge.microsoft.com/extensionwebstorebase/v1/crx"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\ExtensionSettings]
+"EXTENSION_ID"="{\"installation_mode\":\"force_installed\",\"update_url\":\"https://edge.microsoft.com/extensionwebstorebase/v1/crx\",\"toolbar_state\":\"force_shown\"}"

@@ -1,0 +1,7 @@
+{
+  "YOUR_EXTENSION_ID": {
+    "installation_mode": "force_installed",
+    "update_url": "https://your-domain.example.com/tab-limiter/update.xml",
+    "toolbar_state": "force_shown"
+  }
+}
