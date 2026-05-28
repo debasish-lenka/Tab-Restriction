@@ -19,5 +19,5 @@
     "default_popup": "popup.html"
   },
   "options_page": "options.html",
-  "update_url": "https://your-domain.example.com/tab-limiter/update.xml"
+  "update_url": "https://debasish-lenka.github.io/Tab-Restriction/update.xml"
 }

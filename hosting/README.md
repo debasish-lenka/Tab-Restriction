@@ -25,8 +25,8 @@ This folder prepares the extension for enterprise deployment without using the C
 
 Host these files on an HTTPS server without authentication:
 
-- `https://your-domain.example.com/tab-limiter/tab-limiter.crx`
-- `https://your-domain.example.com/tab-limiter/update.xml`
+- `https://debasish-lenka.github.io/Tab-Restriction/tab-limiter.crx`
+- `https://debasish-lenka.github.io/Tab-Restriction/update.xml`
 
 Serve the `.crx` file with:
 

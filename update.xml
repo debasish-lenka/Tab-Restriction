@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="4ea94eeba738eeb7ba781fd2a0e866b4">
+    <updatecheck codebase="https://debasish-lenka.github.io/Tab-Restriction/tab-limiter.crx" version="1.0.0" />
+  </app>
+</gupdate>
